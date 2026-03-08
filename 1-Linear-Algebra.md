@@ -4,8 +4,8 @@
 
 <details> <summary><b>1. Basics of Linear Algebra</b></summary>
 
-- [ ] 1.1 Applications in Machine Learning
-- [ ] 1.2 Scalars, Vectors, Matrices and Tensors
+- [x] 1.1 Applications in Machine Learning
+- [x] 1.2 Scalars, Vectors, Matrices and Tensors
 
 </details>
 
@@ -13,9 +13,9 @@
 
 <details> <summary><b>2. Vectors &amp; Vector Operations</b></summary>
 
-- [ ] 2.1 Vector Addition and Subtraction
-- [ ] 2.2 Scalar Multiplication
-- [ ] 2.3 Linear Combinations, Span
+- [x] 2.1 Vector Addition and Subtraction
+- [x] 2.2 Scalar Multiplication
+- [x] 2.3 Linear Combinations, Span
 - [ ] 2.4 Vector Spaces and Sub-Spaces
 - [ ] 2.5 Dot Product (Inner Product)
 - [ ] 2.6 Cross Product
@@ -30,9 +30,9 @@
 
 - [ ] 3.1 Matrix Notation and Types (Square, Diagonal, Identity, etc.)
 - [ ] 3.2 Matrix Operations:
-    - [ ] 3.2.1 Addition and Subtraction
-    - [ ] 3.2.2 Scalar Multiplication
-    - [ ] 3.2.3 Matrix Multiplication
+  - [ ] 3.2.1 Addition and Subtraction
+  - [ ] 3.2.2 Scalar Multiplication
+  - [ ] 3.2.3 Matrix Multiplication
 - [ ] 3.3 Transpose of Matrix
 - [ ] 3.4 Matrix Norms
 - [ ] 3.5 Element-wise Operations
@@ -155,3 +155,4 @@
 - [ ] 13.4 Tensor Decomposition (CP, Tucker)
 
 </details>
+
