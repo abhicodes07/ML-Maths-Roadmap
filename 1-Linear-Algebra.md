@@ -81,7 +81,7 @@
 
 <details> <summary><b>7. Linear Independence and Span</b></summary>
 
-- [ ] 7.1 Linearly Independent vs Dependent Vectors
+- [x] 7.1 Linearly Independent vs Dependent Vectors
 - [ ] 7.2 Basis and Dimensions of a Vector Space
 - [ ] 7.3 Column Space, Row Space, and NULL Space
 
@@ -155,4 +155,3 @@
 - [ ] 13.4 Tensor Decomposition (CP, Tucker)
 
 </details>
-
