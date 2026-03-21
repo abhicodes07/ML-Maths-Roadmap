@@ -17,9 +17,9 @@
 - [x] 2.2 Scalar Multiplication
 - [x] 2.3 Linear Combinations, Span
 - [ ] 2.4 Vector Spaces and Sub-Spaces
-- [ ] 2.5 Dot Product (Inner Product)
+- [x] 2.5 Dot Product (Inner Product)
 - [ ] 2.6 Cross Product
-- [ ] 2.7 Angle between Vectors and Cosine Similarity
+- [x] 2.7 Angle between Vectors and Cosine Similarity
 - [ ] 2.8 Vector Norms (L1, L2 etc / Magnitude / Length)
 
 </details>
