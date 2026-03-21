@@ -20,10 +20,11 @@
 - [x] 2.5 Length of vectors
 - [x] 2.6 Dot Product (Inner Product)
 - [x] 2.7 Triangle inequality
-- [ ] 2.8 Cross Product
-- [x] 2.9 Angle between Vectors
-- [ ] 3.0 Cosine Similarity
-- [ ] 3.1 Vector Norms (L1, L2 etc / Magnitude / Length)
+- [x] 2.8 Cauchy-Schwarz inequality
+- [ ] 2.9 Cross Product
+- [x] 3.0 Angle between Vectors
+- [ ] 3.1 Cosine Similarity
+- [ ] 3.2 Vector Norms (L1, L2 etc / Magnitude / Length)
 
 </details>
 
